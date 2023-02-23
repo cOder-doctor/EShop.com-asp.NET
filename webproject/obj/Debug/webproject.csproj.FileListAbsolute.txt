@@ -1,0 +1,50 @@
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\webproject.dll.config
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\webproject.dll
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\webproject.pdb
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\Microsoft.ReportViewer.Common.dll
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\Microsoft.ReportViewer.DataVisualization.dll
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\Microsoft.ReportViewer.WebForms.DLL
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\bin\Microsoft.ReportViewer.WinForms.dll
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\obj\Debug\webproject.csproj.CoreCompileInputs.cache
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\obj\Debug\webproject.csproj.CopyComplete
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\obj\Debug\webproject.dll
+H:\Porasuna.com\3.1\Web Project\New folder\3200 project\3200 project\obj\Debug\webproject.pdb
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\webproject.dll.config
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\webproject.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\webproject.pdb
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\Microsoft.ReportViewer.Common.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\Microsoft.ReportViewer.DataVisualization.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\Microsoft.ReportViewer.WebForms.DLL
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\bin\Microsoft.ReportViewer.WinForms.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\obj\Debug\webproject.csproj.CoreCompileInputs.cache
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\obj\Debug\webproject.csproj.CopyComplete
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\obj\Debug\webproject.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\3200 project\obj\Debug\webproject.pdb
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\webproject.dll.config
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\webproject.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\webproject.pdb
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.Common.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.DataVisualization.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.WebForms.DLL
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.WinForms.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.csproj.AssemblyReference.cache
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.csproj.CoreCompileInputs.cache
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.csproj.CopyComplete
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.dll
+H:\Porasuna.com\3.1\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.pdb
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\webproject.dll.config
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\webproject.dll
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\webproject.pdb
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.Common.dll
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.DataVisualization.dll
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.WebForms.DLL
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\bin\Microsoft.ReportViewer.WinForms.dll
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.csproj.AssemblyReference.cache
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.csproj.CoreCompileInputs.cache
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.csproj.CopyComplete
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.dll
+H:\Porasuna.com\3.1\LAB\Web lab\Web Project\FinalProject\webproject\webproject\obj\Debug\webproject.pdb
